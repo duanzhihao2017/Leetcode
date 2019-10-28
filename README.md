@@ -1,5 +1,24 @@
 LeetCode
 ========
+# Dynamic Programming Python
+
+| # | Title | Python | Difficulty |
+|---| ----- | ----- | ---------- |
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[python](./src/0053-Maximum-Subarray/0053.py)|Easy|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[python](./src/0070-Climbing-Stairs/0070.py)|Easy|
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)|Easy|
+|0198|[House Robber](https://leetcode.com/problems/house-robber/) |[python](./src/0198-House-Robber/0198.py)|Easy|
+|0256|[Paint House](https://leetcode.com/problems/paint-house/) |[python](./src/0256-Paint-House/0256.py)|Easy|
+|0276|[Paint Fence](https://leetcode.com/problems/paint-fence/) |[python](./src/0276-Paint-Hence/0276.py)|Easy|
+|0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|Easy|
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Easy||
+|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-Min-Cost-Climbing-Stairs/0746.py) |Easy|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-Divisor-Game/1025.py)|Easy|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python](./src/0005-Longest-Palindromic-Substring/0005.py) |Medium|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[python](./src/0062-Unique-Paths/0062.py)|Medium|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[python](./src/0063-Unique-Paths-II/0063.py)|Medium|
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[python](./src/0064-Minimum-Path-Sum/0064.py) |Medium|
+
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |Easy|
@@ -541,23 +560,6 @@ LeetCode
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) |Medium|
 
 
-# Dynamic Programming Python
 
-| # | Title | Python | Difficulty |
-|---| ----- | ----- | ---------- |
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[python](./src/0053-Maximum-Subarray/0053.py)|Easy|
-|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[python](./src/0070-Climbing-Stairs/0070.py)|Easy|
-|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)|Easy|
-|0198|[House Robber](https://leetcode.com/problems/house-robber/) |[python](./src/0198-House-Robber/0198.py)|Easy|
-|0256|[Paint House](https://leetcode.com/problems/paint-house/) |[python](./src/0256-Paint-House/0256.py)|Easy|
-|0276|[Paint Fence](https://leetcode.com/problems/paint-fence/) |[python](./src/0276-Paint-Hence/0276.py)|Easy|
-|0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|Easy|
-|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Easy||
-|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-Min-Cost-Climbing-Stairs/0746.py) |Easy|
-|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-Divisor-Game/1025.py)|Easy|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python](./src/0005-Longest-Palindromic-Substring/0005.py) |Medium|
-|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[python](./src/0062-Unique-Paths/0062.py)|Medium|
-|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[python](./src/0063-Unique-Paths-II/0063.py)|Medium|
-|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[python](./src/0064-Minimum-Path-Sum/0064.py) |Medium|
 
 
