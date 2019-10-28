@@ -541,8 +541,10 @@ LeetCode
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) |Medium|
 
 
-Dynamic Programming Python
-| # | Title | Python |Difficulty |
+# Dynamic Programming Python
+# ========
+
+| # | Title | Python | Difficulty |
 |---| ----- | ----- | ---------- |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[python](./src/0005-Longest-Palindromic-Substring/0005.py)|Medium|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[python](./src/0070-Climbing-Stairs/0070.py)|Easy|
