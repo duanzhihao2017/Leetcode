@@ -552,6 +552,6 @@ LeetCode
 |0256|[Paint House](https://leetcode.com/problems/paint-house/) |[python](./src/0256-Paint-House/0256.py)|Easy|
 |0276|[Paint Fence](https://leetcode.com/problems/paint-fence/) |[python](./src/0276-Paint-Hence/0276.py)|Easy|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|Easy|
-|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Medium|
-|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-min-cost-climbing-stairs/0746.py) |Easy|
-|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-divisor-game/1025.py)|Easy|
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Easy||
+|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-Min-Cost-Climbing-Stairs/0746.py) |Easy|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-Divisor-Game/1025.py)|Easy|
