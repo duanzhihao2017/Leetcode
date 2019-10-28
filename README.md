@@ -555,3 +555,9 @@ LeetCode
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Easy||
 |0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-Min-Cost-Climbing-Stairs/0746.py) |Easy|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-Divisor-Game/1025.py)|Easy|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python](./src/0005-Longest-Palindromic-Substring/0005.py) |Medium|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[python](./src/0062-Unique-Paths/0062.py)|Medium|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[python](./src/0063-Unique-Paths-II)|Medium|
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[python](./src/0064-Minimum-Path-Sum) |Medium|
+
+
