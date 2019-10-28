@@ -542,7 +542,6 @@ LeetCode
 
 
 # Dynamic Programming Python
-# ========
 
 | # | Title | Python | Difficulty |
 |---| ----- | ----- | ---------- |
