@@ -19,6 +19,8 @@ LeetCode
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[python](./src/0063-Unique-Paths-II/0063.py)|Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[python](./src/0064-Minimum-Path-Sum/0064.py) |Medium|
 |0343| [Interger Break](https://leetcode.com/problems/integer-break/)| [Python](./src/0343-Integer-Break/0343.py) | Medium | 
+|0264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [Python](./src/0264-Ugly-Number-II/0264.py) | Medium | 
+
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |Easy|
