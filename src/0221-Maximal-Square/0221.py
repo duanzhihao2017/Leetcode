@@ -14,6 +14,7 @@
 
 class Solution:
     def maximalSquare(self, matrix):
+        if not matrix: return 0
         m = len(matrix)
         n = len(matrix[0])
         dp = [[0] * n for _ in range(m)]

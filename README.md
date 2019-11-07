@@ -4,22 +4,25 @@ LeetCode
 
 | # | Title | Python | Difficulty |
 |---| ----- | ----- | ---------- |
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[python](./src/0053-Maximum-Subarray/0053.py)|Easy|
-|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[python](./src/0070-Climbing-Stairs/0070.py)|Easy|
-|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)|Easy|
-|0198|[House Robber](https://leetcode.com/problems/house-robber/) |[python](./src/0198-House-Robber/0198.py)|Easy|
-|0256|[Paint House](https://leetcode.com/problems/paint-house/) |[python](./src/0256-Paint-House/0256.py)|Easy|
-|0276|[Paint Fence](https://leetcode.com/problems/paint-fence/) |[python](./src/0276-Paint-Hence/0276.py)|Easy|
-|0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[python](./src/0303-Range-Sum-Query-Immutable/0303.py)|Easy|
-|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[python](./src/0392-Is-Subsequence/0392.py)|Easy||
-|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[python](./src/0746-Min-Cost-Climbing-Stairs/0746.py) |Easy|
-|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) |[python](./src/1025-Divisor-Game/1025.py)|Easy|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python](./src/0005-Longest-Palindromic-Substring/0005.py) |Medium|
-|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[python](./src/0062-Unique-Paths/0062.py)|Medium|
-|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[python](./src/0063-Unique-Paths-II/0063.py)|Medium|
-|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[python](./src/0064-Minimum-Path-Sum/0064.py) |Medium|
-|0343| [Interger Break](https://leetcode.com/problems/integer-break/)| [Python](./src/0343-Integer-Break/0343.py) | Medium | 
-|0264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [Python](./src/0264-Ugly-Number-II/0264.py) | Medium | 
+|0053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Python](./src/0053-Maximum-Subarray/0053.py)| Easy|
+|0070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](./src/0070-Climbing-Stairs/0070.py)| Easy|
+|0121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](./src/0121-Best-Time-to-Buy-and-Sell-Stock/0121.py)| Easy|
+|0198| [House Robber](https://leetcode.com/problems/house-robber/)| [Python](./src/0198-House-Robber/0198.py)| Easy|
+|0256| [Paint House](https://leetcode.com/problems/paint-house/)| [Python](./src/0256-Paint-House/0256.py)| Easy|
+|0276| [Paint Fence](https://leetcode.com/problems/paint-fence/)| [Python](./src/0276-Paint-Hence/0276.py)| Easy|
+|0303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [Python](./src/0303-Range-Sum-Query-Immutable/0303.py)| Easy|
+|0392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./src/0392-Is-Subsequence/0392.py)|Easy|
+|0746| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [Python](./src/0746-Min-Cost-Climbing-Stairs/0746.py)| Easy|
+|1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)| [Python](./src/1025-Divisor-Game/1025.py)| Easy|
+|0005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](./src/0005-Longest-Palindromic-Substring/0005.py)| Medium|
+|0062| [Unique Paths](https://leetcode.com/problems/unique-paths/)| [Python](./src/0062-Unique-Paths/0062.py)| Medium|
+|0063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Python](./src/0063-Unique-Paths-II/0063.py)| Medium|
+|0064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Python](./src/0064-Minimum-Path-Sum/0064.py)| Medium|
+|0221| [Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](./src/0221-Maximal-Square/0221.py)| Medium|
+|0264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [Python](./src/0264-Ugly-Number-II/0264.py)| Medium|
+|0300| [Longest-Increasing-Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [Python](./src/0300-Longest-Inceasing-Subsequence/0300.py)| Medium|
+|0343| [Interger Break](https://leetcode.com/problems/integer-break/)| [Python](./src/0343-Integer-Break/0343.py)| Medium | 
+
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
