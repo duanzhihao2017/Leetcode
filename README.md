@@ -20,6 +20,8 @@ LeetCode
 |0064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Python](./src/0064-Minimum-Path-Sum/0064.py)| Medium|
 |0091| [Decode Ways](https://leetcode.com/problems/decode-ways/)| [Python](./src/0091-Decode-Ways/0091.py)| Medium|
 |0120| [Triangle](https://leetcode.com/problems/triangle/)| [Python](./src/0120-Triangle/0120.py)| Medium|
+|0139| [Word Break](https://leetcode.com/problems/word-break/)| [Python](./src/0139-World-Break/0139.py)| Medium|
+|0213| [House Robber](https://leetcode.com/problems/house-robber-ii/)| [Python](./src/0213-House-Robber-II/0213.py)| Medium|
 |0221| [Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](./src/0221-Maximal-Square/0221.py)| Medium|
 |0264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [Python](./src/0264-Ugly-Number-II/0264.py)| Medium|
 |0300| [Longest-Increasing-Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [Python](./src/0300-Longest-Increasing-Subsequence/0300.py)| Medium|
