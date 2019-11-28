@@ -33,23 +33,52 @@
             
 #         self.findCombination(digits, 0, "", result)
 #         return result
-import itertools
+# import itertools
+# class Solution:
+#     def letterCombinations(self, digits):
+#         """
+#         :type digits: str
+#         :rtype: List[str]
+#         """
+#         if not digits:
+#             return []
+#
+#         l_map = {'2':'abc', '3':'def', '4':'ghi', '5':'jkl',
+#                  '6':'mno', '7':'pqrs', '8':'tuv', '9':'wxyz'}
+#
+#         chars = [l_map.get(d) for d in digits]
+#         return [''.join(x) for x in itertools.product(*chars)]
+
 class Solution:
+
     def letterCombinations(self, digits):
         """
-        :type digits: str
-        :rtype: List[str]
+        :param word1: str
+        :param word2: str
+        :return:  -> int
         """
-        if not digits:
+        # Edge case
+        if len(digits) == 0:
             return []
-        
-        l_map = {'2':'abc', '3':'def', '4':'ghi', '5':'jkl', 
-                 '6':'mno', '7':'pqrs', '8':'tuv', '9':'wxyz'}
-        
-        chars = [l_map.get(d) for d in digits]
-        return [''.join(x) for x in itertools.product(*chars)]
 
+        pairing = {'2': ['a', 'b', 'c'], '3': ['d', 'e', 'f'],
+                   '4': ['g', 'h', 'i'], '5': ['j', 'k', 'l'], '6': ['m', 'n', 'o'],
+                   '7': ['p', 'q', 'r', 's'], '8': ['t', 'u', 'v'], '9': ['w', 'x', 'y', 'z']}
+        temp = []
 
+        for i, digit in enumerate(digits):
+            result = []
+            if i == 0:
+                result = pairing[digit]
+            else:
+                for each in pairing[digit]:
+                    if len(temp) > 0:
+                        for e in temp:
+                            result.append(e+each)
+                    else:
+                        result.append(each)
+            temp = result
+        return result
 if __name__ == '__main__':
     digits = '23'
     print(Solution().letterCombinations(digits))

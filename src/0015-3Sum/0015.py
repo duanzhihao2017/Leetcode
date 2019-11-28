@@ -1,29 +1,29 @@
-class Solution:
+class Solution(object):
     def threeSum(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        nums_hash = {}
-        result = list()
-        for num in nums:
-            nums_hash[num] = nums_hash.get(num, 0) + 1
-        if 0 in nums_hash and nums_hash[0] >= 3:
-            result.append([0, 0, 0])
-
-        neg = list(filter(lambda x: x < 0, nums_hash))
-        pos = list(filter(lambda x: x>= 0, nums_hash))
-
-        for i in neg:
-            for j in pos:
-                dif = 0 - i - j
-                if dif in nums_hash:
-                    if dif in (i, j) and nums_hash[dif] >= 2:
-                        result.append([i, j, dif])
-                    if dif < i or dif > j:
-                        result.append([i, j, dif])
-                    
-        return result
+        res = []
+        nums.sort()
+        for i in xrange(len(nums)-2):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            l, r = i+1, len(nums)-1
+            while l < r:
+                s = nums[i] + nums[l] + nums[r]
+                if s < 0:
+                    l +=1
+                elif s > 0:
+                    r -= 1
+                else:
+                    res.append((nums[i], nums[l], nums[r]))
+                    while l < r and nums[l] == nums[l+1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r-1]:
+                        r -= 1
+                    l += 1; r -= 1
+        return res
 
 if __name__ == '__main__':
     nums = [3,0,-2,-1,1,2]
