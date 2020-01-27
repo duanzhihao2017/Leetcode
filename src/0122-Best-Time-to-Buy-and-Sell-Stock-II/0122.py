@@ -11,6 +11,20 @@ class Solution:
 
         return result
 
+class Solution(object):
+    def maxProfit(self, prices):
+        if prices == []:
+            return 0
+        min = prices[0]
+        ans = 0
+        arr = []
+        for i in range(len(prices)):
+            if prices[i] < min:
+                min = prices[i]
+            arr.append(prices[i]-min)
+            min = prices[i]
+        return sum(arr)
+
 if __name__ == "__main__":
     prices = [1,2,3,4,5]
     print(Solution().maxProfit(prices))

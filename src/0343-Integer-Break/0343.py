@@ -45,3 +45,11 @@ if __name__ == '__main__':
     n = 10
     print(Solution().integerBreak_dp(n))
     print(Solution().integerBreak(n))
+
+
+
+    a=[1,2]
+    hash(a)
+    a=(1,2)
+    hash(1,2)
+    a=[(1,2),(2,3)]

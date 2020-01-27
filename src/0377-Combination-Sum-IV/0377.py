@@ -25,7 +25,20 @@ class Solution:
         mem[target] = result
         return result
 
+
+class Solution2:
+    def combinationSum4(self, nums, target):
+        dp = [0] * (target + 1 )
+        dp[0] = 1
+        for i in range(1, target + 1):
+            for j in nums:
+                if i - j >= 0:
+                    dp[i] += dp[i-j]
+        return dp[-1]
+
+
 if __name__ == '__main__':
-    nums = [1, 2, 4]
-    target = 32
+    nums = [1, 2, 3]
+    target = 4
     print(Solution().combinationSum4(nums, target))
+    print(Solution2().combinationSum4(nums, target))

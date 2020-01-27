@@ -16,6 +16,15 @@ class Solution:
                 continue
             self._subsetsWithDup(nums, i + 1, path + [nums[i]], result)
 
+
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        r = [[]]
+        for num in nums:
+            r += [sorted(x + [num]) for x in r]
+        r = list(set(tuple(x) for x in r))
+        return r
+
 if __name__ == '__main__':
     nums = [1, 2, 2]
     print(Solution().subsetsWithDup(nums))
