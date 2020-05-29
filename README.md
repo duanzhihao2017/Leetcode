@@ -49,4 +49,54 @@
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Python|Done |Medium|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Python|Done |Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Python|Done |Medium|
-|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Python|Done |Medium|
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Python|Done|Python| Done |Medium|
+|0051|[N-Queens](https://leetcode.com/problems/n-queens/)|Python| Done |Hard|
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|Python| Done |Hard|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Python| Done |Easy|
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Python| Done |Medium|
+|0055|[Jump Game](https://leetcode.com/problems/jump-game/)|Python| Done |Medium|
+|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Python| Done |Medium|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|Python| Done |Hard|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Python| Done |Easy|
+|0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/)|Python| Done |Hard|
+|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|Python| Done |Medium|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|Python| Done |Medium|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Python| Done |Medium|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Python| Done |Medium|
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Python| Done |Medium|
+|0065|[Valid Number](https://leetcode.com/problems/valid-number/)|Python| Done |Hard|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|Python| Done |Easy|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|Python| Done |Easy|
+|0068|[Text Justification](https://leetcode.com/problems/text-justification/)|Python| Done |Hard|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Python| Done |Easy|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Python| Done |Easy|
+|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Python| Done |Medium|
+|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Python| Done |Hard|
+|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Python| Done |Medium|
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Python| Done |Medium|
+|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Python| Done |Medium|
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Python| Done |Easy|
+|0077|[Combinations](https://leetcode.com/problems/combinations/)|Python| Done |Medium|
+|0078|[Subsets](https://leetcode.com/problems/subsets/)|Python| Done |Medium|
+|0079|[Word Search](https://leetcode.com/problems/word-search/)|Python| Done |Medium|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Python| Done |Medium|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Python| Done |Medium|
+|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Python| Done |Medium|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Python| Done |Easy|
+|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Python| Done |Hard|
+|0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|Python| Done |Hard|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/)|Python| Done |Medium|
+|0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|Python| Done |Hard|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Python| Done |Easy|
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/)|Python| Done |Medium|
+|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|Python| Done |Medium|
+|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Python| Done |Medium|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Python| Done |Medium|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|Python| Done |Medium|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Python| Done |Medium|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|Python| Done |Medium|
+|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|Python| Done |Medium|
+|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|Python| Done |Medium|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Python| Done |Medium|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|Python| Done |Hard|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/)|Python| Done |Easy|
